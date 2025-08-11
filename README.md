@@ -1,6 +1,5 @@
 
 # Gurobi (Python) 求解VRPTW
-NOTICE：本md文档使用Typora编写，使用其他编辑器可能导致公式显示不正确。
 
 ##  背景
 
@@ -39,7 +38,13 @@ v_num = 25
 
 ## 解决的数学模型
 
-经典VRPTW问题的模型构建，请参考[Jean-François Cordeau (2002)](https://doi.org/10.1137/1.9780898718515.ch7);
+经典VRPTW问题的模型构建，请参考[Jean-François Cordeau (2002)](https://doi.org/10.1137/1.9780898718515.ch7
+        
+        
+        
+        
+        
+        );
 
 同时，还参考了微信公众号运小筹的[此篇文章](https://mp.weixin.qq.com/s/tF-ayzjpZfuZvelvItuecw)。
 
